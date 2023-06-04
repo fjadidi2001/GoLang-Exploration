@@ -1,3 +1,3 @@
-# training function
-in this repostory i want to share everything about function in Go maybe i try to learn another thing and push it to this repo
+# Function
+A function is a group of statements that exist within a program for the purpose of performing a specific task. At a high level, a function takes an input and returns an output.
 <br>
